@@ -1,0 +1,17 @@
+com/sc/inventoryManagement/repository/AddressRepository.class
+com/sc/inventoryManagement/repository/CustomerRepository.class
+com/sc/inventoryManagement/controller/CustomerController.class
+com/sc/inventoryManagement/util/OrderStatus.class
+com/sc/inventoryManagement/service/ProductService.class
+com/sc/inventoryManagement/controller/ProductController.class
+com/sc/inventoryManagement/repository/ProductRepository.class
+com/sc/inventoryManagement/service/OrderService.class
+com/sc/inventoryManagement/controller/OrderController.class
+com/sc/inventoryManagement/service/CustomerService.class
+com/sc/inventoryManagement/entity/Product.class
+com/sc/inventoryManagement/entity/Address.class
+com/sc/inventoryManagement/repository/OrderRepository.class
+com/sc/inventoryManagement/entity/Order.class
+com/sc/inventoryManagement/util/MembershipLevel.class
+com/sc/inventoryManagement/entity/Customer.class
+com/sc/inventoryManagement/App.class
